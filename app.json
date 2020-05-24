@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "firstproj",
-    "slug": "firstproj",
+    "name": "ToDo List",
+    "slug": "todolist",
     "platforms": [
       "ios",
       "android",
@@ -23,6 +23,10 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android":{
+      "package":"com.akshay.todolist",
+      "versionCode":1
     }
   }
 }
